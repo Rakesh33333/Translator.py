@@ -1,3 +1,4 @@
 # Translator.py
 output................................
-https://github.com/user-attachments/assets/09b64112-c0f2-4e94-8e71-23fe27a2366e
+
+https://github.com/user-attachments/assets/c04490e2-4a6c-4010-8d2b-fc5c6fd13a1c
